@@ -35,7 +35,7 @@ Inicia el server:
   npm run start
 ```
 
-## Screenshots
+## Screenshots 📸
 
 ![App Screenshot](https://i.imgur.com/0ky9Bdj.png)
 
