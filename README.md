@@ -38,4 +38,6 @@ Inicia el server:
 ## Screenshots 📸
 
 ![App Screenshot](https://i.imgur.com/0ky9Bdj.png)
+![App Screenshot](https://i.imgur.com/VtuvSMb.png)
+
 
