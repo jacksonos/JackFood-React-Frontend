@@ -9,7 +9,7 @@ Antes de comenzar, asegúrate de tener instalados los siguientes requisitos en t
 
 - Node.js
 - npm
-- Repositorio de backend ➡️ https://github.com/jacksonos/JackFood-React-Backend es el backend.
+- Repositorio de backend ➡️ https://github.com/jacksonos/JackFood-React-Backend
   
 ## Correr localmente 💡
 
