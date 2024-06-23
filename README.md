@@ -1,5 +1,5 @@
 
-# Jack Food 🍽️ | Front 
+# Jack Food 🍽️ | Frontend 
 
 ¡Bienvenido! 👋 Este proyecto es una website  desarrollada con React, y está configurado para facilitar su ejecución y desarrollo.
 
