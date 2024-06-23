@@ -1,7 +1,7 @@
 
 # Jack Food 🍽️ | Frontend 
 
-¡Bienvenido! 👋 Este proyecto es una website  desarrollada con React, y está configurado para facilitar su ejecución y desarrollo.
+¡Bienvenido! 👋 Este proyecto es el frontend en React de una website de pedidos de comida, y está configurado para facilitar su ejecución y desarrollo.
 
 ## Requisitos previos ❗
 
@@ -9,6 +9,8 @@ Antes de comenzar, asegúrate de tener instalados los siguientes requisitos en t
 
 - Node.js
 - npm
+- Repositorio de backend ➡️ https://github.com/jacksonos/JackFood-React-Backend es el backend.
+  
 ## Correr localmente 💡
 
 Clona el repositorio:
