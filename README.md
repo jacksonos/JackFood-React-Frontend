@@ -1,7 +1,7 @@
 
 # Jack Food 🍽️ | Frontend 
 
-¡Bienvenido! 👋 Este proyecto es el frontend en React de una website de pedidos de comida, y está configurado para facilitar su ejecución y desarrollo.
+¡Bienvenid@! 👋 Este proyecto es el frontend en React de una website de pedidos de comida, y está configurado para facilitar su ejecución y desarrollo.
 
 ## Requisitos previos ❗
 
